@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.hyepago.mokgongso_stack.MainActivity">
 
+    <ImageView
+        android:id="@+id/facebook_btn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:onClick="facebookLoginOnClick"
+        android:src="@drawable/login_btn_facebook"/>
+
 </android.support.constraint.ConstraintLayout>
