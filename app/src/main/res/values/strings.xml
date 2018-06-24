@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mokgongso_stack</string>
+    <string name="facebook_app_id">188540425196589</string>
+    <string name="fb_login_protocol_scheme">fb188540425196589</string>
+</resources>
